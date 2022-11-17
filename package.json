@@ -1,8 +1,8 @@
 {
-	"name": "sose-node",
-	"version": "0.0.0",
+	"name": "SW101",
+	"version": "0.0.1",
 	"private": true,
-	"description": "Node + Plantuml Starter Template with Gitpod configuration",
+	"description": "My SW101 example",
 	"license": "MIT",
 	"scripts": {
 		"start": "node src/index.js",
